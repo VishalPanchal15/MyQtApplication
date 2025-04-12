@@ -111,7 +111,7 @@ void MainWindow::createSideMenu()
         });
     };
 
-    QString iconPath = "/Users/vishal.panchal/Downloads/03 - Jiung.png";
+    QString iconPath = "/Users/vishal.panchal/Devlopment/MyQtApplication/images/03 - Jiung.png";
     addSidebarButton(iconPath, "Home");
     addSidebarButton(iconPath, "Avatar");
     addSidebarButton(iconPath, "Fabric");

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/01 - Emre.jpg</file>
+        <file>images/02 - Hyunjung.png</file>
+        <file>images/03 - Jiung.png</file>
+        <file>images/04 - Roman.jpg</file>
+        <file>images/05 - Christopher.png</file>
+    </qresource>
+</RCC>
